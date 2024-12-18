@@ -7,6 +7,7 @@ Software Developer with **2.5 years** of experience in developing web applicatio
  ### Find me on
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-2396ed?logo=linkedin&logoColor=fff&style=flat)](https://linkedin.com/in/alexanastagr) 
+[![Website](https://img.shields.io/badge/Website-2396ed?logo=wordpress&logoColor=fff&style=flat)](https://alexanasta.gr) 
 
 ### I'm playing arround with
 
