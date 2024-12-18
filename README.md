@@ -17,13 +17,6 @@ Software Developer with **2.5 years** of experience in developing web applicatio
 - Electronics / IoT Development
 - Automation tools scripts
 
-
-### Some hobbies
-
-- 📷 Photography
-- 🎮 Games
-- ✈️ Traveling
-
 ### Familiarity with
 
 <img width="35%" src="https://skillicons.dev/icons?i=bash,php,mysql,laravel,alpinejs,react,redux,electron,materialui,tailwind,js,ts,docker,git&perline=7"/>
