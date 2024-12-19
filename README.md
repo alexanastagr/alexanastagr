@@ -7,7 +7,7 @@ Software Developer with **2.5 years** of experience in developing web applicatio
  ### 📭 Reach me via
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-242938?logo=linkedin&logoColor=fff&style=flat)](https://linkedin.com/in/alexanastagr) 
-[![GitHub Page](https://img.shields.io/badge/GitHub&nbsp;Page-242938?logo=github&logoColor=fff&style=flat)](https://alexanastagr.github.io) 
+[![GitHub Page](https://img.shields.io/badge/Blog&nbsp;Page-242938?logo=wordpress&logoColor=fff&style=flat)](https://alexanasta.gr) 
 [![Email](https://img.shields.io/badge/Email-242938?logo=gmail&logoColor=fff&style=flat)](mailto:software@alexanasta.gr) 
 
 
